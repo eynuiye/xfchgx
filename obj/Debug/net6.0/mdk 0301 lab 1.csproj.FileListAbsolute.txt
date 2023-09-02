@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\mdk 0301 lab 1\bin\Debug\net6.0\mdk 0301 lab 1.exe
+C:\Users\student\source\repos\mdk 0301 lab 1\bin\Debug\net6.0\mdk 0301 lab 1.deps.json
+C:\Users\student\source\repos\mdk 0301 lab 1\bin\Debug\net6.0\mdk 0301 lab 1.runtimeconfig.json
+C:\Users\student\source\repos\mdk 0301 lab 1\bin\Debug\net6.0\mdk 0301 lab 1.dll
+C:\Users\student\source\repos\mdk 0301 lab 1\bin\Debug\net6.0\mdk 0301 lab 1.pdb
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.AssemblyInfo.cs
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.dll
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\refint\mdk 0301 lab 1.dll
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.pdb
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\mdk 0301 lab 1.genruntimeconfig.cache
+C:\Users\student\source\repos\mdk 0301 lab 1\obj\Debug\net6.0\ref\mdk 0301 lab 1.dll
